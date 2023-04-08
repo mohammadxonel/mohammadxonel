@@ -7,9 +7,8 @@
 - 💬 Ask me about front-end and Back-end development, or anything related to web development
 - 📫 How to reach me: [ali_mohammad@t-online.de]()
 
-![]()
-
 ### Languages and Tools:
+<<<<<<< HEAD
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/.../html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/.../css3.svg" />
@@ -29,3 +28,6 @@
 <br />
 <br />
 >>>>>>> 04c0d4a3e91fb1f45cdef9b76262745bb7135438
+=======
+<img align="left" alt="HTML5" width="26px" src="https://github.com/mohammadxxali/README.md/blob/main/workflow/html5.svg"/>
+>>>>>>> c1ff4e0f770c393897b19e83dccdbd5220de4f82
