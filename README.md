@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohammad](🧑‍💻) 👋
+# Hi 👋 , I'm [Mohammad](🧑‍💻)
 
 ## I'm a Full-Stack Developer
 
