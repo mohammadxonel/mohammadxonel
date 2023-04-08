@@ -18,7 +18,14 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/.../nodejs.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/.../mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/.../git.svg" />
+<<<<<<< HEAD
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/#E34F26/vscode.svg" />
 
 <br />
 <br />
+=======
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/https://#E34F26/vscode.svg" />
+
+<br />
+<br />
+>>>>>>> 04c0d4a3e91fb1f45cdef9b76262745bb7135438
