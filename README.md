@@ -20,7 +20,7 @@
 
 
 
-### Languages and Tools:
+<h3>Languages and Tools:</h3>
 
 <img align="left" alt="HTML" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
 <img align="left" alt="CSS" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/css-3.png" />
@@ -35,7 +35,7 @@
 
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadxxali&layout=compact&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
-## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=dark)](https://github.com/yourusername/github-readme-stats)
+## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
 
 <br />
 <br />
