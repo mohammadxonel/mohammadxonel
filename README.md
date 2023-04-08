@@ -1,5 +1,7 @@
 # Hi there, I'm [Mohammad](🧑‍💻) 👋
 
+<hr>
+
 ## I'm a Full-Stack Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadxxali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadxxali" /> </p>
@@ -18,7 +20,7 @@
 <a href="https://www.linkedin.com/in/mohammad-ali-1042b926b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadxxali" height="30" width="40" /></a>
 </p>
 
-<hr>
+
 
 ### Languages and Tools:
 
