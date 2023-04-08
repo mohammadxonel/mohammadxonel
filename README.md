@@ -37,5 +37,5 @@
 <br />
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadxxali&layout=compact&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
-## [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=radical)](https://github.com/mohammadxxali/github-readme-stats)
+# [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=dark)](https://github.com/yourusername/github-readme-stats)
 
