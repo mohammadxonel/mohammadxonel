@@ -34,7 +34,6 @@
 <img align="left" alt="NODE.JS" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/node.js.png" />
 
 <br />
-<br />
 
 <div  align="center"> <img src="https://github.com/mohammadxxali/mohammadxxali/blob/output/github-contribution-grid-snake.svg" /></div>
 
