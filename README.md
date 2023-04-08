@@ -9,4 +9,3 @@
 - ⚡ Fun fact: I love drawing and play video games and playing the piano
 
 ![![MatrixGIF](https://user-images.githubusercontent.com/124307921/230712478-af05c10d-75a8-4eb9-a015-6de98e6cbba8.gif)
-]()
