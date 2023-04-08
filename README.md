@@ -10,4 +10,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
+<img align="left" alt="HTML5" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/css-3.png" />
+<img align="left" alt="HTML5" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/js.png" />
+
 
