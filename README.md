@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer
 
- <img align="center" alt="profile" width="1000px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/4884785.jpg" />
+ <img align="center" alt="profile" width="850px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/profile.jpg" />
 
 ##
 - 🔭 I work and learn to develop front-end and back-end web skills
@@ -12,8 +12,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
-<img align="left" alt="HTML5" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/css-3.png" />
-<img align="left" alt="HTML5" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/js.png" />
-
-
+<img align="left" alt="HTML" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
+<img align="left" alt="CSS" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/css-3.png" />
+<img align="left" alt="JS" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/js.png" />
+<img align="left" alt="BOOTSTRAP" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/bootstrap.png" />
+<img align="left" alt="PYTHON" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/python.png" />
+<img align="left" alt="REACT" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/react.png" />
+<img align="left" alt="TYPESCRIPT" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/typescript.png" />
+<img align="left" alt="GIT" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/git.png" />
+<img align="left" alt="ANGULAR" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/Angular.png" />
