@@ -41,4 +41,7 @@
 ## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
 
 <br/>
-<div  align="center"> <img src="https://github.com/mohammadxxali/README.md/blob/main/github-contribution-grid-snake.svg" /></div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammadxxali/mohammadxxali/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
