@@ -1,6 +1,7 @@
 # Hi 👋 , I'm [Mohammad](🧑‍💻)
 
-## I'm a Full-Stack Developer
+## I'm a Full-Stack Developer <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=I'm a Full-Stack Developer" alt="Typing SVG" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadxxali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadxxali" /> </p>
 
