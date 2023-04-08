@@ -9,3 +9,5 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5" width="26px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
+
