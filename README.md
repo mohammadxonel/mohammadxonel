@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer
 
- <img align="center" alt="profile" width="1000px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/profile.jpg" />
+ <img align="center" alt="profile" width="850px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/profile.jpg" />
 
 ##
 - 🔭 I work and learn to develop front-end and back-end web skills
