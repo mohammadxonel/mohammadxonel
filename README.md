@@ -1,8 +1,6 @@
 ## Hi there, I'm [Mohammad](🧑‍💻) 👋
 
-<hr>
-
-# I'm a Full-Stack Developer
+## I'm a Full-Stack Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadxxali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadxxali" /> </p>
 
