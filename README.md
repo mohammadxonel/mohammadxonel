@@ -22,3 +22,6 @@
 <img align="left" alt="GIT" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/git.png" />
 <img align="left" alt="ANGULAR" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/Angular.png" />
 <img align="left" alt="NODE.JS" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/node.js.png" />
+
+<br />
+<br />
