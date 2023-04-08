@@ -11,9 +11,8 @@
 - 🌱 I'm always eager to learn new technologies to improve my skills
 - 💬 Ask me about front-end and Back-end development, or anything related to web development
 
-##
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-ali-1042b926b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadxxali" height="30" width="40" /></a>
 </p>
