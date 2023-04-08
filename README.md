@@ -26,4 +26,4 @@
 <br />
 <br />
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=radical)](https://github.com/mohammadxxali/README.md/edit/main/README.md)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?mohammadxxali=your-mohammadxxali&count_private=true&show_icons=true&theme=radical)](https://github.com/mohammadxxali/README.md/edit/main/README.md)
