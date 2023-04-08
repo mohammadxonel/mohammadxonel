@@ -8,4 +8,4 @@
 - 📫 How to reach me: [ali_mohammad@t-online.de]()
 - ⚡ Fun fact: I love drawing and play video games and playing the piano
 
-![Coding GIF](image.png)
+![image.png]()
