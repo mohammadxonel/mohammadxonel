@@ -18,7 +18,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/.../nodejs.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/.../mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/.../git.svg" />
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/https://github.com/mohammadxxali/vscode.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/https://#E34F26/vscode.svg" />
 
 <br />
 <br />
