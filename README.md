@@ -10,7 +10,9 @@
 - 🔭 I work and learn to develop front-end and back-end web skills
 - 🌱 I'm always eager to learn new technologies to improve my skills
 - 💬 Ask me about front-end and Back-end development, or anything related to web development
-- 📫 How to reach me: [ali_mohammad@t-online.de]()
+- 📫 How to reach me: <p align="left">
+<a href="https://www.linkedin.com/in/mohammad-ali-1042b926b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohammadxxali/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadxxali" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
