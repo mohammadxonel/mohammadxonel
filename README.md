@@ -42,7 +42,7 @@
 <br/>
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadxxali&layout=compact&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
-## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
+## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=dark)](https://github.com//github-readme-stats)
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadxxali&theme=dark" alt="Mohammad's Streak Stats"/>
 </div>
