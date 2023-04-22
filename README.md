@@ -1,4 +1,4 @@
-# Hi 👋 , I'm [Mohammad](🧑‍💻)
+# Hi 👋 , I'm [Mohammad](💻)
 
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=I'm-a-Full-Stack-Developer" alt="Typing SVG" /></a>
