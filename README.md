@@ -51,5 +51,5 @@
 <br/>
 
 <div align="center">
-  <img src="" alt="Snake animation"/>
+  <img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/github-user-contribution.svg" alt="Snake animation"/>
 </div>
