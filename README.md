@@ -9,14 +9,16 @@
 <img src="https://img.shields.io/github/followers/mohammadxxali?color=c20000&style=plastic" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" >.
 </p>
 
- <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
-
 ##
 - 🔭 I work and learn to develop **front-end and back-end** web skills
 - 🌱 I'm always eager to learn new **technologies** to improve my skills
 - 💬 Ask me about **front-end and Back-end development**, or anything related to web development
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali&theme=radical)](https://github.com/mohammadxxali)
+
+#
+
+ <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
 
 ##
