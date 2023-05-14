@@ -9,9 +9,9 @@
  <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
 ##
-- 🔭 I work and learn to develop front-end and back-end web skills
-- 🌱 I'm always eager to learn new technologies to improve my skills
-- 💬 Ask me about front-end and Back-end development, or anything related to web development
+- 🔭 I work and learn to develop **front-end and back-end** web skills
+- 🌱 I'm always eager to learn new **technologies** to improve my skills
+- 💬 Ask me about **front-end and Back-end development**, or anything related to web development
 
 ##
 
