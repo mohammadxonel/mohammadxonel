@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadxxali&label=Profile%20views&color=C20000&style=flat" alt="mohammadxxali" /> </p>
-<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/mohammadxxali?color=red&style=plastic">
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/mohammadxxali?color=c20000&style=plastic">
 
  <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
