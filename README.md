@@ -26,7 +26,7 @@
 
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali-ma&theme=radical)](https://github.com/mohammadxxali)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/mohammadxxali)
 
 <h3>Languages and Tools:</h3>
 
