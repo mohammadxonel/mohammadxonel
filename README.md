@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadxxali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadxxali" /> </p>
 
- <img align="center" alt="profile" width="850px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/profile.jpg" />
+ <img align="center" alt="profile" width="850px" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
 ##
 - 🔭 I work and learn to develop front-end and back-end web skills
