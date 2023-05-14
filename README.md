@@ -1,4 +1,4 @@
-<img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/Welcome.gif" width="450" height="450" alt="gif" />
+<img align="center" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/Welcome.gif" width="650" height="450" alt="gif" />
 
 
 
