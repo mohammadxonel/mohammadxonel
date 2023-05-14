@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/Hi.gif" width="30" alt="gif" />
+<!-- <img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/Hi.gif" width="30" alt="gif" /> !-->
 
 <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
