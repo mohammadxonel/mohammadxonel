@@ -1,7 +1,4 @@
-# Hi 👋 , I'm [Mohammad](💻)
-
-
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=I'm-a-Full-Stack-Developer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=30&duration=4500&pause=1000&color=F70000&width=450&lines=Hi%2C+I'm+Mohammad+%F0%9F%99%82;I+am+a+Full+Stack+Web+Developer;Welcome+to+My+Github!)](https://git.io/typing-svg)
 
 
 
