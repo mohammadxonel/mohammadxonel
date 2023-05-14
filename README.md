@@ -27,9 +27,6 @@
 </p>
 
 
-## [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali&theme=radical)](https://github.com/mohammadxxali)
-
-
 <h3>Languages and Tools:</h3>
 
 <img align="left" alt="HTML" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
@@ -47,6 +44,9 @@
 <br/>
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadxxali&layout=compact&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
+
+## [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali&theme=radical)](https://github.com/mohammadxxali)
+
 ## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadxxali&theme=dark" alt="Mohammad's Streak Stats"/>
