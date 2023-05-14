@@ -16,6 +16,12 @@
 - 🌱 I'm always eager to learn new **technologies** to improve my skills
 - 💬 Ask me about **front-end and Back-end development**, or anything related to web development
 
+#
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali&theme=radical)](https://github.com/mohammadxxali)
+
+#
+
 ##
 
 <h3 align="left">Connect with me:</h3>
@@ -44,8 +50,6 @@
 <br/>
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadxxali&layout=compact&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
-
-## [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali&theme=radical)](https://github.com/mohammadxxali)
 
 ## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxxali&count_private=true&show_icons=true&theme=dark)](https://github.com/mohammadxxali/github-readme-stats)
 <div align="left">
