@@ -67,4 +67,4 @@
 
 #
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?mohammadxxali=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?mohammadxxali=Ashutosh00710&theme=dracula)](https://github.com/mohammadxxali/mohammadxxali/edit/main/README.md)
