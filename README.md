@@ -64,3 +64,7 @@
 <div align="center">
   <img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/github-user-contribution.svg" alt="Snake animation"/>
 </div>
+
+#
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?mohammadxxali=Harlok)](https://github.com/anuraghazra/github-readme-stats)
