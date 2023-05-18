@@ -34,14 +34,6 @@
 
 </p>
 
-#
-
-<img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
-
-
-#
-
-
 <h3>Languages and Tools:</h3>
 
 <img align="left" alt="HTML" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/html-5.png" />
@@ -73,3 +65,5 @@
 </div>
 
 #
+
+## <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
