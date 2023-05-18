@@ -24,7 +24,7 @@
 #
 
 
-##
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,4 +66,4 @@
 
 #
 
-## <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
+<img width="850" height="350" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
