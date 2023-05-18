@@ -13,9 +13,6 @@
 <img src="https://img.shields.io/github/followers/mohammadxxali?color=c20000&style=plastic" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" >.
 </p>
 
-#
-
-<img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
 ##
 - 🔭 I work and learn to develop **front-end and back-end** web skills
@@ -36,6 +33,13 @@
 <a href="https://www.instagram.com/mohammadxonel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solomonkassa" height="30" width="40" /></a>
 
 </p>
+
+#
+
+<img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
+
+
+#
 
 
 <h3>Languages and Tools:</h3>
