@@ -3,7 +3,6 @@
 <img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/Hi.gif" width="30" alt="gif" />
 
 
-<!-- <img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" /> !-->
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=23&duration=4500&pause=1000&color=F70000&width=450&lines=Hi%2C+I'm+Mohammad+%F0%9F%99%82;I+am+a+Full+Stack+Web+Developer;Welcome+to+My+Github!)](https://git.io/typing-svg)
 
@@ -13,6 +12,10 @@
 <img src="https://komarev.com/ghpvc/?username=mohammadxxali&label=Profile%20views&color=C20000&style=flat" alt="mohammadxxali" />.
 <img src="https://img.shields.io/github/followers/mohammadxxali?color=c20000&style=plastic" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" >.
 </p>
+
+#
+
+<img width="320" height="200" align="right" alt="profile" src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/img.gif" />
 
 ##
 - 🔭 I work and learn to develop **front-end and back-end** web skills
