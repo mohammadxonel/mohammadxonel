@@ -3,7 +3,7 @@
 <img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/Hi.gif" width="30" alt="gif" />
 
 
--
+- mo
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=23&duration=4500&pause=1000&color=F70000&width=450&lines=Hi%2C+I'm+Mohammad+%F0%9F%99%82;I+am+a+Full+Stack+Web+Developer;Welcome+to+My+Github!)](https://git.io/typing-svg)
 
