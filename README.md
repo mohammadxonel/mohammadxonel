@@ -12,7 +12,6 @@
 </p>
 
 
-
 ##
 - 🔭 I work and learn to develop **front-end and back-end** web skills
 - 🌱 I'm always eager to learn new **technologies** to improve my skills
