@@ -31,7 +31,7 @@
 
 <h3>Languages and Tools:</h3>
 
-<img align="left" alt="HTML" width="45px" src="https://github.com/mohammadxonel/README.md/blob/main/icons/html-5.png" />
+<img align="left" alt="HTML" width="45px" src="https://github.com/mohammadxonel/mohammadxonel/blob/main/icons/html-5.png" />
 <img align="left" alt="CSS" width="45px" src="https://github.com/mohammadxonel/mohammadxonel/blob/main/icons/css-3.png" />
 <img align="left" alt="JS" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/js.png" />
 <img align="left" alt="BOOTSTRAP" width="45px" src="https://github.com/mohammadxxali/README.md/blob/main/icons/bootstrap.png" />
