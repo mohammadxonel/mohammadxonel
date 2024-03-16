@@ -15,7 +15,7 @@
 ##
 - 🔭 I work and learn to develop **front-end and back-end** web skills
 - 🌱 I'm always eager to learn new **technologies** to improve my skills
-- 💬 Ask me about **front-end and Back-end development**, or anything related to web development
+- 💬 1% Luck 99% Faith
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxonel&theme=radical)](https://github.com/mohammadxonel)
 
