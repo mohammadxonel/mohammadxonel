@@ -17,7 +17,7 @@
 - 🌱 I'm always eager to learn new **technologies** to improve my skills
 - 💬 Ask me about **front-end and Back-end development**, or anything related to web development
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxxali&theme=radical)](https://github.com/mohammadxxali)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mohammadxonel&theme=radical)](https://github.com/mohammadxonel)
 
 #
 
