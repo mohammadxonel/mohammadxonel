@@ -3,7 +3,7 @@
 <img src="https://github.com/mohammadxonel/mohammadxonel/blob/main/icons/Hi.gif" width="30" alt="gif" />
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=23&duration=4500&pause=1000&color=F70000&width=450&lines=Hi%2C+I'm+Mohammad+%F0%9F%99%82;I+am+a+Jr.+Software+Developer;Welcome+to+My+Github!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=23&duration=4500&pause=1000&color=F70000&width=450&lines=Hi%2C+I'm+Mohammad+%F0%9F%99%82;I+am+a+Jr.+Software+Developer;Welcome+to+My+Github!)](https://git.io/typing-svg)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=23&duration=5500&pause=2000&color=F7F7F7&background=FF000000&random=false&width=435&lines=Create.%F0%9F%8E%A8+%7C+Develop.%F0%9F%92%BB+%7C+Design.%E2%9C%8F%EF%B8%8F)](https://git.io/typing-svg)
 
