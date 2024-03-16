@@ -56,7 +56,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/mohammadxxali/mohammadxxali/blob/main/icons/github-user-contribution.svg"/>
+  <img src="https://github.com/mohammadxonel/mohammadxonel/blob/main/icons/github-user-contribution.svg"/>
 </div>
 
 ##
