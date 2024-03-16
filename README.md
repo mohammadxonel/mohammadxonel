@@ -49,7 +49,7 @@
 
 ## [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadxonel&count_private=true&show_icons=true&theme=dark)](https://github.com/mohammadxonel/github-readme-stats)
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadxxali&theme=dark" alt="Mohammad's Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadxonel&theme=dark" alt="Mohammad's Streak Stats"/>
 </div>
 
 
